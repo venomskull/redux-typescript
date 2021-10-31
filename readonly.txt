@@ -1,0 +1,3 @@
+npx create-react-app redux-typescript --template typescript
+yarn add redux react-redux react-thunk @types/react-redux  
+yarn add redux-thunk @types/redux-thunk
